@@ -7,4 +7,4 @@ I'm SCPJaehyeon 👨‍💻
 
 - 😄 Interests : Security, Development, Network, Forensic, AI
 - ⚡ Main Languages: C++
-- 🌱 Sub Language : Python
+- 🌱 Sub Language : Python...
