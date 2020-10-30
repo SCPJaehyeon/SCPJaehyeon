@@ -6,5 +6,4 @@
 I'm SAYNOT 👨‍💻
 
 - 😄 Interests : Security, Development, Network, Forensic, AI
-- ⚡ Main Languages: C++
-- 🌱 Sub Language : Python...
+- ⚡ Main Languages: C++, Python
