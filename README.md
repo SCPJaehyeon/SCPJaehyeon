@@ -1,6 +1,6 @@
-# SlothM0r3
+# SlothMor3
 
 ## Hi 👋, 
-I'm SlothM0r3😃
+I'm SlothMor3😃
 
 #Security #Software #Developer
